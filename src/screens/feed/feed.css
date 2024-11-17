@@ -1,0 +1,9 @@
+.feed-container {
+    justify-content: center;
+    align-items: center;
+}
+
+.feed-container h1{
+    color: rgb(162, 195, 232);
+    font-size: 100px;
+}
